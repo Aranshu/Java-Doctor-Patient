@@ -10,15 +10,15 @@ Doctor-Patient-Portal is a windows application made using swing java as front-en
 
 - Main Window
 
-  ![App Screenshot](https://github.com/Aranshu/Java-Doctor-Patient/blob/master/media/Main%20page.jpg)
+  ![App Screenshot](https://github.com/Aranshu/Java-Doctor-Patient/blob/master/media/Main%20page.jpg?raw=true)
   
 - Signup Window
 
-  ![App Screenshot](https://github.com/Aranshu/Java-Doctor-Patient/blob/master/media/SignUp.jpg)
+  ![App Screenshot](https://github.com/Aranshu/Java-Doctor-Patient/blob/master/media/SignUp.jpg?raw=true)
   
 - Login Window
 
-  ![App Screenshot](https://github.com/Aranshu/Java-Doctor-Patient/blob/master/media/Login.jpg)
+  ![App Screenshot](https://github.com/Aranshu/Java-Doctor-Patient/blob/master/media/Login.jpg?raw=true)
 
 ## Installation
 
